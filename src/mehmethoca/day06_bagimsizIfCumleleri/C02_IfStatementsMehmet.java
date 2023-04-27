@@ -23,6 +23,8 @@ public class C02_IfStatementsMehmet {
         if (sayi%3==0){
             System.out.println("3 ile bolunebilen bir sayi");
             //version 1
+            System.out.println("Java is easy");
+            //version 2
         }
     }//main
 }
