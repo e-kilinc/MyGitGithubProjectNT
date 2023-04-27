@@ -25,6 +25,8 @@ public class C02_IfStatementsMehmet {
             //version 1
             System.out.println("Java is easy");
             //version 2
+            System.out.println("Learn Java earn money");
+            //version 3
         }
     }//main
 }
