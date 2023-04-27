@@ -35,6 +35,9 @@ public class C02_IfStatementsMehmet {
 
             System.out.println("yeni kodlar eklendi");
             //emn2
+
+            System.out.println();
+            //emn3
         }
     }//main
 }
