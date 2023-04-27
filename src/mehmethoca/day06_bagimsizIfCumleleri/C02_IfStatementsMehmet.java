@@ -32,6 +32,9 @@ public class C02_IfStatementsMehmet {
 
             System.out.println("yeni branchde kodlari yazdim");
             //version emn1
+
+            System.out.println("yeni kodlar eklendi");
+            //emn2
         }
     }//main
 }
