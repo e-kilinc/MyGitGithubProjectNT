@@ -35,6 +35,13 @@ public class C02_IfStatementsMehmet {
 
             System.out.println("yeni kodlar eklendi");
             //emn2
+<<<<<<< Updated upstream
+=======
+
+            System.out.println();
+            //emn3
+            System.out.println();
+>>>>>>> Stashed changes
         }
     }//main
 }
