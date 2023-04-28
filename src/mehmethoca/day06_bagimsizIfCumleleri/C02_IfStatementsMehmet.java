@@ -38,6 +38,8 @@ public class C02_IfStatementsMehmet {
 
             System.out.println();
             //emn3
+            System.out.println();
+            //localde degisiklik yaptim
         }
     }//main
 }
