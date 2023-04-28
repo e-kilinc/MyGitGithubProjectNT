@@ -42,5 +42,6 @@ public class C02_IfStatementsMehmet {
             System.out.println();
 
         }
+        //remoteda uzak repoda degisiklik yaptim
     }//main
 }
