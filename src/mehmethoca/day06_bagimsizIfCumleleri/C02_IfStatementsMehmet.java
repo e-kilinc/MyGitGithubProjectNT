@@ -43,5 +43,6 @@ public class C02_IfStatementsMehmet {
             System.out.println();
 >>>>>>> Stashed changes
         }
+        //remoteda uzak repoda degisiklik yaptim
     }//main
 }
