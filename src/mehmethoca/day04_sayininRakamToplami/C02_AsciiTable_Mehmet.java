@@ -1,6 +1,5 @@
-package mehmethoca.day04;
+package mehmethoca.day04_sayininRakamToplami;
 
-import java.awt.desktop.SystemEventListener;
 import java.util.Scanner;
 
 public class C02_AsciiTable_Mehmet {

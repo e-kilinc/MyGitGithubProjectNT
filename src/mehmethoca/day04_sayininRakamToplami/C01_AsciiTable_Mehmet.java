@@ -1,4 +1,4 @@
-package mehmethoca.day04;
+package mehmethoca.day04_sayininRakamToplami;
 
 public class C01_AsciiTable_Mehmet {
     public static void main(String[] args) {

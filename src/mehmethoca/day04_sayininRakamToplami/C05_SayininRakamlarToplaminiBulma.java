@@ -1,4 +1,4 @@
-package mehmethoca.day04;
+package mehmethoca.day04_sayininRakamToplami;
 
 import java.util.Scanner;
 

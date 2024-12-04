@@ -1,4 +1,4 @@
-package mehmethoca.day03;
+package mehmethoca.day03_Scanner;
 
 import java.util.Scanner;
 

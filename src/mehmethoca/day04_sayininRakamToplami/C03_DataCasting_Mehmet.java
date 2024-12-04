@@ -1,4 +1,4 @@
-package mehmethoca.day04;
+package mehmethoca.day04_sayininRakamToplami;
 
 public class C03_DataCasting_Mehmet {
     public static void main(String[] args) {
